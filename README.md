@@ -3,7 +3,7 @@
 
 # 验证码用法
 
-登陆页面(login.html)
+登陆页面（login.html）
 ```
 <html>
    <form action="login.php" method="post">
